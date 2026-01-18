@@ -67,3 +67,69 @@
 
 </body>
 </html>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f6f8;
+    color: #333;
+}
+
+header {
+    background-color: #1f2933;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+section {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+h2 {
+    border-bottom: 2px solid #1f2933;
+    padding-bottom: 5px;
+}
+
+.skills ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+.project {
+    background-color: white;
+    padding: 15px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+.contact p {
+    margin: 5px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #e5e7eb;
+    margin-top: 40px;
+}
+# Digital Marketing Portfolio
+
+This is a simple portfolio website created to showcase my interest and skills in digital marketing.
+It is designed for remote opportunities and highlights my skills, sample projects, and contact details.
+
+## Skills Highlighted
+- Social Media Management
+- Content Creation
+- Basic SEO
+- Email Marketing
+- Analytics (Basic)
+
+## How to View
+Open `index.html` in a browser or host it using GitHub Pages.
+
+## Contact
+Email: fleischermuza5@gmail.com  
+LinkedIn: linkedin.com/in/yourname
